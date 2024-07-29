@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import inquirer from 'inquirer';
 
 // Function to generate a random number between min and max (inclusive)
